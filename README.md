@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelting
-- 👀 I’m interested in 
+- 👀 I’m interested in Mobile development, Web Development
 - 🌱 I’m currently revising my Linux Knowledge
 <!-- - 💞️ I’m looking to collaborate on -->
 - 📫 How to reach me: You may reach me via my email
