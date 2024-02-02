@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelting
 - 👀 I’m interested in math, coding, making things out of Raspberry Pi
 - 🌱 I’m currently revising my Linux Knowledge 
-- 💞️ I’m looking to collaborate on open source android-related projects 
+- 💞️ I’m looking to collaborate on open source #IoT #hardware #Android projects 
 - 📫 How to reach me: You may reach me via 
 LinkedIn: https://www.linkedin.com/in/samueltingko/
 
